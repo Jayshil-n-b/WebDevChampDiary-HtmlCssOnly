@@ -1,0 +1,112 @@
+*
+{
+    margin: auto;
+}
+h1
+{
+    font-weight: bold;
+    font-family: convergence;
+    margin: 10px auto;
+    background-color: #b71540;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-shadow: darkblue 4px -4px 8px;
+    margin: 10px;
+}
+p
+{
+    letter-spacing: 2px;
+    text-indent: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 4px 60px;
+    padding: 10px;
+    border-style: solid;
+    border-color: indigo;
+    border-width: 2px;
+    border-radius: 10px;
+    background-color: #6a89cc;
+    color: black;
+    text-align: justify;
+    opacity: 0.9;
+}
+.ans
+{
+    overflow-y: scroll;
+    height: 100px;
+}
+div
+{
+    margin: 10px;
+    padding: 10px;
+}
+body
+{
+    background-image: url("https://wallpapercave.com/wp/wp3272182.jpg");
+    background-color: floralwhite;
+    background-attachment: fixed;
+}
+.q
+{
+    font-family: spinnaker;
+    text-align: center;
+    font-size: large;
+    background-color: #2c2c54;
+    color: #f1f2f6;
+    text-shadow: chartreuse 2px 2px 4px;
+}
+.menu
+{
+    background-color: black;
+    text-align: center;
+    padding: 0px;
+    font-family: monospace;
+    position: sticky;
+    top: 3px;
+    z-index: 1;
+}
+.opt
+{
+    list-style-type: none;
+    color: floralwhite;
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+    padding: 1px;
+    display: inline-block;
+    text-align: center;
+    width: 80;
+}
+a:link, a:visited
+{
+    color: white;
+    background-color: #006266;
+    text-decoration: none;
+}
+a:hover, a:active
+{
+    background-color: #B53471;
+    text-decoration: none;
+}
+.foot
+{
+    text-align: center;
+}
+.ico
+{
+    width: 50px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    padding: 15px;
+    float: left;
+}
+gal:hover
+{
+    color: crimson;
+}
+
+
